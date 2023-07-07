@@ -1,0 +1,2 @@
+class Pug < AnimalsRecord
+end
